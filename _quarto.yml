@@ -1,0 +1,28 @@
+project:
+  type: sdca-theme
+
+website:
+  title: "SDCA Research"
+  site-url: "https://steno-aarhus.github.io/prodiap/"
+  repo-url: "https://github.com/steno-aarhus/prodiap"
+  navbar:
+    pinned: true
+    left:
+      - kontakt.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/steno-aarhus/"
+        aria-label: "GitHub icon: Link to SDCA GitHub organization page"
+      - icon: twitter
+        href: "https://twitter.com/StenoAarhusRes"
+        aria-label: "Twitter icon: Link to SDCA Twitter page"
+      - icon: globe
+        href: directory.qmd
+        aria-label: "Globe icon: Link to directory page of other SDCA websites"
+
+format: sdca-theme-html
+
+editor: 
+  markdown:
+    wrap: 72
+    canonical: true
