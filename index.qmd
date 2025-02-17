@@ -13,3 +13,4 @@ PRODIAP handler om
 
 ## Kontakt
 
+![Katrine Bruun Bonnén](/images/flow_chart_prodiap.png)
