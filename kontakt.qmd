@@ -1,3 +1,26 @@
 ---
 title: Kontakt
 ---
+
+## Kontakt
+::: {layout-ncol="2"}
+### Annesofie Lunde Jensen
+- Programleder og lektor
+- Mail: annesjen@rm.dk
+- Tlf. 20 47 02 60
+
+![](images/annesofie_l_j_8W5A8121_farve.jpg){.profile-picture}
+
+### Anette Andersen
+-   Programleder og overlæge
+-   Mail: anette.andersen@rm.dk
+-   Tlf. 22 13 56 05
+
+![](images/brug dette_Anette_Andersen_MG_9930_farve_3-2 - Kopi.jpg){.profile-picture}
+
+### Katrine Bruun Bonnén
+- Videnskabelig assistent
+- Mail: katbon@rm.dk
+- Tlf. 25 47 46 44
+
+![](images/katrine b_b_8W5A8826_farve.jpg){.profile-picture}
