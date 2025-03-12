@@ -1,7 +1,6 @@
 ---
 title: Kontakt
 ---
-
 ::: {layout-ncol="2"}
 ### Annesofie Lunde Jensen
 - Programleder og lektor
