@@ -11,9 +11,39 @@ Behandlingen af personer med type 2-diabetes foregår primært i almen praksis, 
 PRODIAP (Patient Rapporterede Oplysninger diabetes i almen praksis) er et spørgeskema udviklet til at støtte denne proces. PRODIAP blev pilottestet i tre almen praksis i 2023, hvor både behandlere og patienter oplevede en positiv effekt på årssamtalen og en mere individualiseret behandling.
 
 ## Fordele ved at deltage
+Ved at deltage i PRODIAP-projektet får jeres almen praksis mulighed for at afprøve et nyt værktøj, der kan styrke kvaliteten af årssamtalen for personer med type 2-diabetes. PRODIAP giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 
+Erfaringer fra pilottesten viser, at PRODIAP:
+
+Skaber en mere fokuseret og struktureret dialog.
+Øger patientens forberedelse og inddragelse i behandlingen.
+Kan medvirke til en bedre ressourceallokering ved at identificere patienter med særlige behov.
+Projektet giver jeres klinik adgang til ny viden om, hvordan patientrapporterede oplysninger kan integreres i almen praksis, og resultaterne vil kunne danne grundlag for fremtidige anbefalinger på området.
 
 ## Ofte stillede spørgsmål
+
+Hvad går PRODIAP-projektet ud på?
+PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis.
+
+Hvilke klinikker kan deltage?
+Almen praksis i Region Midtjylland, Region Sjælland og Region Syddanmark kan deltage.
+
+Hvad indebærer det at deltage?
+De deltagende klinikker bliver fordelt i en interventions- og en kontrolgruppe. Klinikker i interventionsgruppen vil bruge PRODIAP som en del af årssamtalen, mens kontrolgruppen fortsætter med de nuværende retningslinjer. Derudover vil der blive indsamlet spørgeskemadata samt gennemført interviews og observationer i udvalgte praksisser.
+
+Hvad kræver det af os som klinik?
+For klinikker i interventionsgruppen indebærer deltagelse, at patienterne besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
+
+Hvad får vores klinik ud af at deltage?
+Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
+
+Hvordan tilmelder vi os?
+Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yderligere information og tilmelding.
+
+## Video
+
+I denne video fortæller projektleder Annesofie Lunde Jensen fra Steno Diabetes Center Aarhus, Anni Bøgelund Ebsen fra Lægerne Tilst og Morten Bjerregaard Nielsen (som modtager behandling hos Lægerne Tilst) om brugen af diabetes spørgeskemaet til årssamtalen.
+{{< video "https://region-midtjylland.23video.com/secret/108642034/c7fe7bb4b8d0a68a84e8da37d1357281" >}}
 
 
 ## Kontakt
