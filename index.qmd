@@ -45,6 +45,10 @@ Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtale
 Hvordan tilmelder vi os?
 Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yderligere information og tilmelding.
 
+## Tilmeld
+Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
+Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra den regionale kontaktperson.
+
 ## Erfaringer fra pilotprojekt i Tilst Lægehus
 
 Tilst Lægehus har siden xx anvendt PRODIAP i deres årssamtaler med patienter med type 2-diabetes. Hør sygeplejerske Anni Bøgelund Ebsen (Lægerne Tilst), Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) og projektleder Annesofie Lunde Jensen fortælle om brugen af diabetes spørgeskemaet til årssamtalen.
