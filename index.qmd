@@ -49,7 +49,7 @@ Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yde
 
 Tilst Lægehus har siden xx anvendt PRODIAP i deres årssamtaler med patienter med type 2-diabetes. Hør sygeplejerske Anni Bøgelund Ebsen (Lægerne Tilst), Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) og projektleder Annesofie Lunde Jensen fortælle om brugen af diabetes spørgeskemaet til årssamtalen.
 
-{{< video "https://regionmidtjylland.sharepoint.com/:v:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Video/PRODIAP/prodiap_v3_med_tekster.mp4?csf=1&web=1&e=J058LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" >}}
+{{< video "https://vimeo.com/1065201949/2998dbd767" >}}
 
 ## Kontakt
 ::: {layout-ncol="2"}
