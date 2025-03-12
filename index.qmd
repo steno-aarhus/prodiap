@@ -1,5 +1,5 @@
 ---
-title: "PRODIAP: PRO diabetes spørgeskema til bedre årssamtaler for personer med type 2-diabetes i almen praksis"
+title: "PRODIAP: PRO diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
 ---
 
 ## Om projektet
@@ -13,19 +13,24 @@ PRODIAP (Patient Rapporterede Oplysninger diabetes i almen praksis) er et spørg
 ## Fordele ved at deltage
 Ved at deltage i PRODIAP-projektet får jeres almen praksis mulighed for at afprøve et nyt værktøj, der kan styrke kvaliteten af årssamtalen for personer med type 2-diabetes. PRODIAP giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 
-Erfaringer fra pilottesten viser, at PRODIAP:
+## Hvad får jeres almen praksis ud af at deltage?
 
-Skaber en mere fokuseret og struktureret dialog.
-Øger patientens forberedelse og inddragelse i behandlingen.
-Kan medvirke til en bedre ressourceallokering ved at identificere patienter med særlige behov.
-Projektet giver jeres klinik adgang til ny viden om, hvordan patientrapporterede oplysninger kan integreres i almen praksis, og resultaterne vil kunne danne grundlag for fremtidige anbefalinger på området.
+Som deltager i projektet får jeres almen praksis
+- Mulighed for at være de første til at anvende et diabetes-specifikt PRO spørgeskema i behandlingen af patienter med type 2-diabetes og beholde det efterfølgende.
+- Økonomisk kompensation for nudervisning i hvordan man opsætter og anevender spørgeskemaet og for rekruttering af patienter til projektet.
+
+Erfaringer fra pilottesten viser, at PRODIAP:
+- Skaber en mere fokuseret og struktureret dialog.
+- Øger patientens forberedelse og inddragelse i behandlingen.
+- Kan medvirke til en bedre ressourceallokering ved at identificere patienter med særlige behov.
+- Projektet giver jeres klinik adgang til ny viden om, hvordan patientrapporterede oplysninger kan integreres i almen praksis, og resultaterne vil kunne danne grundlag for fremtidige anbefalinger på området.
 
 ## Ofte stillede spørgsmål
 
 Hvad går PRODIAP-projektet ud på?
 PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis.
 
-Hvilke klinikker kan deltage?
+Hvem kan deltage?
 Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
 
 Hvad indebærer det at deltage?
@@ -42,9 +47,8 @@ Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yde
 
 ## Video
 
-Hør projektleder Annesofie Lunde Jensen (Steno Diabetes Center Aarhus), Anni Bøgelund Ebsen (Lægerne Tilst) og Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) om brugen af diabetes spørgeskemaet til årssamtalen.
+Projektleder Annesofie Lunde Jensen, sygeplejerske Anni Bøgelund Ebsen (Lægerne Tilst) og Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) fortæller om brugen af diabetes spørgeskemaet til årssamtalen.
 {{< video "https://regionmidtjylland.sharepoint.com/:v:/r/sites/AUHSTDIC/Afdeling/_F%C3%A6lles/Video/PRODIAP/prodiap_v3_med_tekster.mp4?csf=1&web=1&e=J058LZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" >}}
-
 
 ## Kontakt
 ::: {layout-ncol="2"}
