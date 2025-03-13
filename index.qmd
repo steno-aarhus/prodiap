@@ -55,6 +55,10 @@ Tilst Lægehus har siden xx anvendt PRODIAP i deres årssamtaler med patienter m
 
 {{< video "https://vimeo.com/1065201949/2998dbd767" >}}
 
+## Support til Webpatient og PRODIAP spørgeskema
+- Mail: webreq.support@synlab.com
+- Tlf. 75 72 01 77 (mandag–torsdag kl. 8.00-15.00, fredag kl. 8.00-14.00)
+
 ## Kontakt
 ::: {layout-ncol="2"}
 ### Annesofie Lunde Jensen
