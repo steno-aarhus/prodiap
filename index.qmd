@@ -10,6 +10,9 @@ Behandlingen af personer med type 2-diabetes foregår primært i almen praksis, 
 
 PRODIAP (Patient Rapporterede Oplysninger diabetes i almen praksis) er et spørgeskema udviklet til at støtte denne proces. PRODIAP blev pilottestet i tre almen praksis i 2023, hvor både behandlere og patienter oplevede en positiv effekt på årssamtalen og en mere individualiseret behandling.
 
+## Web-patient
+Spørgeskemaet er integreret i Web-patient og findes under "Favoritter", hvor det ligger for de almen praksis, som deltager i projektet.
+
 ## Fordele ved at deltage
 Ved at deltage i PRODIAP-projektet får jeres almen praksis mulighed for at afprøve et nyt værktøj, der kan styrke kvaliteten af årssamtalen for personer med type 2-diabetes. PRODIAP giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 
@@ -55,9 +58,11 @@ Tilst Lægehus har siden xx anvendt PRODIAP i deres årssamtaler med patienter m
 
 {{< video "https://vimeo.com/1065201949/2998dbd767" >}}
 
-## Support til Webpatient og PRODIAP spørgeskema
+## Support til Webpatient
 - Mail: webreq.support@synlab.com
-- Tlf. 75 72 01 77 (mandag–torsdag kl. 8.00-15.00, fredag kl. 8.00-14.00)
+- Tlf. 75 72 01 77
+- Mandag–torsdag kl. 8.00-15.00
+- Fredag kl. 8.00-14.00)
 
 ## Kontakt
 ::: {layout-ncol="2"}
