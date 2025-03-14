@@ -1,5 +1,7 @@
 ---
 title: "PRODIAP: PRO diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
+callout-icon: false
+callout-appearance: "simple"
 ---
 
 ## Om projektet
@@ -30,23 +32,35 @@ Erfaringer fra pilottesten viser, at PRODIAP:
 
 ## Ofte stillede spørgsmål
 
-Hvad går PRODIAP-projektet ud på?
+::: {.callout-important collapse="true"}
+## Hvad går PRODIAP-projektet ud på?
 PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis.
+:::
 
-Hvem kan deltage?
+::: {.callout-important collapse="true"}
+## Hvem kan deltage?
 Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
+::: 
 
-Hvad indebærer det at deltage?
+::: {.callout-important collapse="true"}
+## Hvad indebærer det at deltage?
 De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe. Klinikker i interventionsgruppen vil bruge PRODIAP som en del af årssamtalen, mens kontrolgruppen fortsætter med de nuværende retningslinjer. Derudover vil der blive indsamlet spørgeskemadata samt gennemført interviews og observationer i udvalgte praksisser.
+::: 
 
-Hvad kræver det af os som klinik?
+::: {.callout-important collapse="true"}
+## Hvad kræver det af os som klinik?
 For klinikker i interventionsgruppen indebærer deltagelse, at patienterne besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
+:::
 
-Hvad får vores klinik ud af at deltage?
+::: {.callout-important collapse="true"}
+## Hvad får vores klinik ud af at deltage?
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
+:::
 
-Hvordan tilmelder vi os?
+::: {.callout-important collapse="true"}
+## Hvordan tilmelder vi os?
 Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yderligere information og tilmelding.
+:::
 
 ## Tilmeld
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
