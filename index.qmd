@@ -1,16 +1,4 @@
 ---
-title: "Min Hjemmeside"
-format: html
-navbar:
-  left:
-    - text: "Hjem"
-      href: index.html
-    - text: "Kontakt"
-      href: kontakt.html
----
-
-
----
 title: "PRODIAP: PRO diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
 callout-icon: false
 callout-appearance: "simple"
