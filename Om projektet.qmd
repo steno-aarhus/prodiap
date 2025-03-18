@@ -1,0 +1,13 @@
+---
+title: "Kontakt"
+format: html
+navbar:
+  left:
+    - text: "Hjem"
+      href: index.html
+    - text: "Kontakt"
+      href: kontakt.html
+---
+
+# Kontakt os  
+Her kan du skrive dine kontaktoplysninger.
