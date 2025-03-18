@@ -5,7 +5,7 @@ callout-appearance: "simple"
 ---
 
 ## Om projektet
-PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Formålet med projektet er at undersøge betydningen af at bruge et diabetes-specifikt PRO spørgeskema i årssamtalen mellem behandler og personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
+PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Formålet med projektet er at undersøge betydningen af at anvende et diabetes-specifikt PRO spørgeskema i årssamtalen, som kan understøtte en mere målrettet og patient-inddragende samtale.
 
 ## Baggrund for projektet
 Behandlingen af personer med type 2-diabetes foregår primært i almen praksis, og en personcentret tilgang er afgørende for at sikre gode behandlingsforløb. Nationale retningslinjer anbefaler, at personer med type 2-diabetes motiveres til at tage aktiv del i håndteringen af deres sygdom, hvilket kræver en indsigt i den enkeltes sygdomsoplevelse. PRODIAP (**P**atient **R**apporterede **O**plysninger **D**iabetes **I** **A**lmen **P**raksis) er et spørgeskema udviklet til at støtte denne proces. PRODIAP spørgeskemaet er blevet udviklet i samarbejde med behandlere og patienter. I 2023 blev spørgeskemaet pilottestet i tre almen praksis, og her oplevede både behandlere og patienter at spørgeskemaet havde en positiv effekt på årssamtalen og bidrog til at behandlingen blev mere individualiseret.
@@ -27,15 +27,13 @@ Ved at deltage i projektet får jeres almen praksis:
 
 ::: {.callout-important collapse="true"}
 ## Hvad går PRODIAP projektet ud på?
-PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis.
+PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 :::
 
 ::: {.callout-important collapse="true"}
 ## Hvem kan deltage?
 Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
 :::
-
-Derudover vil der blive indsamlet spørgeskemadata samt gennemført interviews og observationer i udvalgte praksisser. Alle deltagende almen praksis (både i interventionsgruppen og kontrolgruppen) har mulighed for at beholde skemaet i behandelingen efter projektet er afsluttet.
 
 ::: {.callout-important collapse="true"}
 ## Hvad indebærer det at deltage?
@@ -50,20 +48,13 @@ Derudover vil der blive gennemført interviews og observationer i udvalgte praks
 :::
 
 ::: {.callout-important collapse="true"}
-## Hvad får vores klinik ud af at deltage?
+## Hvad får vores almen praksis ud af at deltage?
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
-:::
-
-::: {.callout-important collapse="true"}
-## Hvordan tilmelder vi os?
-Hvis jeres almen praksis er interesseret i at deltage, kan I kontakte xx for yderligere information og tilmelding.
 :::
 
 ## Tilmeld
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra den regionale kontaktperson.
-
-
 
 ## Support til Webpatient
 - Mail: webreq.support@synlab.com
