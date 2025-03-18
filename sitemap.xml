@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/prodiap/Om projektet.html</loc>
-    <lastmod>2025-03-18T14:50:17.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/LICENSE.html</loc>
-    <lastmod>2025-03-18T14:50:17.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/index.html</loc>
-    <lastmod>2025-03-18T14:50:17.025Z</lastmod>
+    <loc>https://steno-aarhus.github.io/prodiap/kontakt.html</loc>
+    <lastmod>2025-03-18T14:56:36.865Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/prodiap/directory.html</loc>
-    <lastmod>2025-03-18T14:50:17.015Z</lastmod>
+    <lastmod>2025-03-18T14:56:36.855Z</lastmod>
   </url>
   <url>
-    <loc>https://steno-aarhus.github.io/prodiap/kontakt.html</loc>
-    <lastmod>2025-03-18T14:50:17.026Z</lastmod>
+    <loc>https://steno-aarhus.github.io/prodiap/index.html</loc>
+    <lastmod>2025-03-18T14:56:36.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/LICENSE.html</loc>
+    <lastmod>2025-03-18T14:56:36.850Z</lastmod>
   </url>
 </urlset>
