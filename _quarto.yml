@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "SDCA Research"
+  title: "PRODIAP startside"
   site-url: "https://steno-aarhus.github.io/prodiap/"
   repo-url: "https://github.com/steno-aarhus/prodiap"
   navbar:
