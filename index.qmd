@@ -4,6 +4,7 @@ callout-icon: false
 callout-appearance: "simple"
 ---
 
+
 ## Om projektet
 PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Formålet med projektet er at undersøge betydningen af at anvende et diabetes-specifikt PRO spørgeskema i årssamtalen, som kan understøtte en mere målrettet og patient-inddragende samtale.
 
