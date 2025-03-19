@@ -8,6 +8,9 @@ website:
   navbar:
     pinned: true
     left:
+      - text: "Baggrund" 
+        href: baggrund.qmd
+      - faq.qmd
       - kontakt.qmd
     tools:
       - icon: github

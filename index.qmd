@@ -7,9 +7,6 @@ callout-appearance: "simple"
 ## Om projektet
 PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Formålet med projektet er at undersøge betydningen af at anvende et diabetes-specifikt PRO spørgeskema i årssamtalen, som kan understøtte en mere målrettet og patient-inddragende samtale.
 
-## Baggrund for projektet
-Behandlingen af personer med type 2-diabetes foregår primært i almen praksis, og en personcentret tilgang er afgørende for at sikre gode behandlingsforløb. Nationale retningslinjer anbefaler, at personer med type 2-diabetes motiveres til at tage aktiv del i håndteringen af deres sygdom, hvilket kræver en indsigt i den enkeltes sygdomsoplevelse. PRODIAP (**P**atient **R**apporterede **O**plysninger **D**iabetes **I** **A**lmen **P**raksis) er et spørgeskema udviklet til at støtte denne proces. PRODIAP spørgeskemaet er blevet udviklet i samarbejde med behandlere og patienter. I 2023 blev spørgeskemaet pilottestet i tre almen praksis, og her oplevede både behandlere og patienter at spørgeskemaet havde en positiv effekt på årssamtalen og bidrog til at behandlingen blev mere individualiseret.
-
 ## Erfaringer fra Tilst Lægehus
 Hør projektleder Annesofie Lunde Jensen fortælle om projektet i denne video. Tilst Lægehus har brugt PRODIAP spørgeskemaet i deres årssamtaler med patienter med type 2-diabetes siden det blev udviklet og i videoen fortæller sygeplejerske Anni Bøgelund Ebsen (Lægerne Tilst) og Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) om brugen af spørgeskemaet til årssamtalen.
 
@@ -23,35 +20,6 @@ Ved at deltage i projektet får jeres almen praksis:
 - En medvirkende rolle i at skabe evidens, som kan spille ind i den kommende sundhedsreform
 - Erfaring med at deltage i og bidrage til et forskningsprojekt, som har til formål at udvikle og forbedre behandlingen af patienter med type 2-diabetes
 
-## Ofte stillede spørgsmål
-
-::: {.callout-important collapse="true"}
-## Hvad går PRODIAP projektet ud på?
-PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
-:::
-
-::: {.callout-important collapse="true"}
-## Hvem kan deltage?
-Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
-:::
-
-::: {.callout-important collapse="true"}
-## Hvad indebærer det at deltage?
-De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
-For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
-
-For almen praksis i **kontrolgruppen** vil årssamtalen fortsætte som vanligt uden brug af PRODIAP.
-
-**Alle** deltagende almen praksis (både i interventions- og i kontrolgruppen) skal rekruttere i gennemsnit 67 patienter til projektet, som skal besvare et baseline spørgeskema i starten af projektet og et follow-up spørgeskema som afslutning på projektet.
-
-Derudover vil der blive gennemført interviews og observationer i udvalgte praksisser. Alle deltagende almen praksis (både i interventions- og kontrolgruppen) har mulighed for at beholde skemaet i behandelingen efter projektet er afsluttet.
-:::
-
-::: {.callout-important collapse="true"}
-## Hvad får vores almen praksis ud af at deltage?
-Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
-:::
-
 ## Tilmeld
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra den regionale kontaktperson.
@@ -61,27 +29,3 @@ Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil 
 - Tlf. 75 72 01 77
 - Mandag–torsdag kl. 8.00-15.00
 - Fredag kl. 8.00-14.00
-
-## Kontakt
-::: {layout-ncol="2"}
-### Annesofie Lunde Jensen
-- Programleder og lektor
-- Mail: annesjen@rm.dk
-- Tlf. 20 47 02 60
-
-![](images/annesofie_l_j_8W5A8121_farve.jpg){.profile-picture}
-
-### Anette Andersen
--   Programleder og overlæge
--   Mail: anette.andersen@rm.dk
--   Tlf. 22 13 56 05
-
-![](images/brug dette_Anette_Andersen_MG_9930_farve_3-2 - Kopi.jpg){.profile-picture}
-
-### Katrine Bruun Bonnén
-- Videnskabelig assistent
-- Mail: katbon@rm.dk
-- Tlf. 25 47 46 44
-
-![](images/katrine b_b_8W5A8826_farve.jpg){.profile-picture}
-:::
