@@ -24,6 +24,42 @@ Ved at deltage i projektet får jeres almen praksis:
 - Erfaring med at deltage i og bidrage til et forskningsprojekt, som har til formål at udvikle og forbedre behandlingen af patienter med type 2-diabetes
 
 ## Tilmeld
+
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spørgeskema</title>
+    <style>
+        /* Styling af knappen */
+        .survey-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            background-color: #4CAF50; /* Grøn farve */
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+
+        .survey-button:hover {
+            background-color: #45a049; /* Mørkere grøn farve ved hover */
+        }
+    </style>
+</head>
+<body>
+    <!-- https://redcap.link/wwn5k9ty -->
+    <a href="https://link-til-din-recap-spoergeskema" class="survey-button" target="_blank">
+        Deltag i spørgeskemaet
+    </a>
+</body>
+</html>
+
+
 <button onclick="window.location.href='<a href="https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN">Click here to take the survey</a>';">Tilmeld dig her</button>
 
 
