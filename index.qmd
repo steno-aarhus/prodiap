@@ -25,7 +25,6 @@ Ved at deltage i projektet får jeres almen praksis:
 
 ## Tilmeld
 
-<!DOCTYPE html>
 <html lang="da">
 <head>
     <meta charset="UTF-8">
