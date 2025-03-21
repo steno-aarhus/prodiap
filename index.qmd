@@ -53,7 +53,7 @@ Ved at deltage i projektet får jeres almen praksis:
 <body>
     <!-- Link til REDCap spørgeskemaet -->
     <a href="<a href="https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN">Click here to take the survey</a>" class="survey-button" target="_blank">
-        Deltag i spørgeskemaet
+        Tilmeld
     </a>
 </body>
 </html>
