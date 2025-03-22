@@ -25,7 +25,6 @@ Ved at deltage i projektet får jeres almen praksis:
 
 ## Tilmeld
 
-<!DOCTYPE html>
 <html lang="da">
 <head>
     <meta charset="UTF-8">
@@ -59,6 +58,7 @@ Ved at deltage i projektet får jeres almen praksis:
     </a>
 </body>
 </html>
+
 
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra den regionale kontaktperson.
