@@ -9,13 +9,13 @@ website:
     pinned: true
     left:
       - text: "Baggrund" 
-        href: baggrund.qmd
-      - text: "ofte stillede spørgsmål"
-        href: ofte stillede spørgsmål.qmd
-      - text: "kontakt"
-        href: kontakt.qmd
-      - text: "tilmeld"
-        href: tilmeld.qmd
+        href: Baggrund.qmd
+      - text: "Ofte stillede spørgsmål"
+        href: Ofte stillede spørgsmål.qmd
+      - text: "Kontakt"
+        href: Kontakt.qmd
+      - text: "Tilmeld"
+        href: Tilmeld.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
