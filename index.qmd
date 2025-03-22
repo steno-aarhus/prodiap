@@ -43,6 +43,7 @@ Ved at deltage i projektet får jeres almen praksis:
             border-radius: 5px;
             text-decoration: none;  /* Fjerner understregningen fra linket */
             transition: background-color 0.3s ease;  /* Glidende ændring af baggrundsfarve ved hover */
+            margin-bottom: 20px; /* Tilføjer margin nederst på knappen */
         }
 
         /* Hover effekt - ændrer farven, når man holder musen over knappen */
