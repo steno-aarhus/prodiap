@@ -10,8 +10,9 @@ website:
     left:
       - text: "Baggrund" 
         href: baggrund.qmd
-      - faq.qmd
+      - ofte stillede spørgsmål.qmd
       - kontakt.qmd
+      - tilmeld.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
