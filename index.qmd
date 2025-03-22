@@ -53,7 +53,7 @@ Ved at deltage i projektet får jeres almen praksis:
  </head>
  <body>
      <!-- https://redcap.link/wwn5k9ty -->
-     <a href="https://link-til-din-recap-spoergeskema" class="survey-button" target="_blank">
+     <a href="<a href="https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN">Click here to take the survey</a>" class="survey-button" target="_blank">
          Deltag i spørgeskemaet
      </a>
  </body>
