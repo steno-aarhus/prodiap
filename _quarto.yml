@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "PRODIAP startside"
+  title: "Startside"
   site-url: "https://steno-aarhus.github.io/prodiap/"
   repo-url: "https://github.com/steno-aarhus/prodiap"
   navbar:
@@ -10,9 +10,12 @@ website:
     left:
       - text: "Baggrund" 
         href: baggrund.qmd
-      - ofte stillede spørgsmål.qmd
-      - kontakt.qmd
-      - tilmeld.qmd
+      - text: "ofte stillede spørgsmål"
+        href: ofte stillede spørgsmål.qmd
+      - text: "kontakt"
+        href: kontakt.qmd
+      - text: "tilmeld"
+        href: tilmeld.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
