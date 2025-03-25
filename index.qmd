@@ -68,9 +68,3 @@ Ved at deltage i projektet får jeres almen praksis:
 
 Ved at udfylde tilmeldingsformularen accepterer du, at vi behandler dine tilmeldingsoplysninger i projektet.
 Din tilmeldelse er først registreret når du har trykket på "Indsend". Du vil snarest efter tilmeldingen modtage en bekræftelsesmail fra den regionale kontaktperson.
-
-## Support til Webpatient
-- Mail: webreq.support@synlab.com
-- Tlf. 75 72 01 77
-- Mandag–torsdag kl. 8.00-15.00
-- Fredag kl. 8.00-14.00
