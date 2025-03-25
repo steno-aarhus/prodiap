@@ -1,4 +1,7 @@
-Tilmeld til projektet her:
+Tilmeld jer til projektet her:
+
+Ved at udfylde tilmeldingsformularen accepterer I, at vi behandler tilmeldingsoplysningerne i projektet.
+Tilmeldelsen er først registreret, når der er trykket på "Indsend". Efter tilmeldelse kontakter vi jer indenfor en uge for at aftale et tidspunkt for undervisning, som omhandler rekruttering af patienter og opsætning og brug af PRODIAP spørgeskemaet i Web-patient.
 
 <html lang="da">
 <head>
