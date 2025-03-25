@@ -10,25 +10,22 @@ PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med
 
 ![](images/tilst_scr_00_02_09_04.Still015.jpg){.profile-picture}
 
+
 ## Erfaringer fra Tilst Lægehus
 I denne video fortæller projektleder Annesofie Lunde Jensen om projektet. Tilst Lægehus har brugt PRODIAP spørgeskemaet i deres årssamtaler med patienter med type 2-diabetes siden det blev udviklet og i videoen fortæller sygeplejerske Anni Bøgelund Ebsen (Lægerne Tilst) og Morten Bjerregaard Nielsen (modtager behandling hos Lægerne Tilst) om brugen af spørgeskemaet til årssamtalen.
 
 {{< video "https://vimeo.com/1067280980/99a7b7612a?ts=0&share=copy" >}}
 
+
 ## Fordele ved at deltage
 
 Ved at deltage i projektet får jeres almen praksis:
-* Mulighed for at være blandt de første til at anvende et nyt værktøj, der kan styrke kvaliteten af årssamtalen for personer med type 2-diabetes.
-* Mulighed for at beholde skemaet efter projektets afslutning
-* Økonomisk kompensation for undervisning i hvordan man opsætter og anevender spørgeskemaet og for rekruttering af patienter til projektet
-* En medvirkende rolle i at skabe evidens, som kan spille ind i den kommende sundhedsreform
-* Erfaring med at deltage i og bidrage til et forskningsprojekt, som har til formål at udvikle og forbedre behandlingen af patienter med type 2-diabetes
 
-# Test af liste
-
-- Punkt 1
-- Punkt 2
-- Punkt 3
+- Mulighed for at være blandt de første til at anvende et nyt værktøj, der kan styrke kvaliteten af årssamtalen for personer med type 2-diabetes.
+- Mulighed for at beholde skemaet efter projektets afslutning
+- Økonomisk kompensation for undervisning i hvordan man opsætter og anevender spørgeskemaet og for rekruttering af patienter til projektet
+- En medvirkende rolle i at skabe evidens, som kan spille ind i den kommende sundhedsreform
+- Erfaring med at deltage i og bidrage til et forskningsprojekt, som har til formål at udvikle og forbedre behandlingen af patienter med type 2-diabetes
 
 
 ## Tilmeld
