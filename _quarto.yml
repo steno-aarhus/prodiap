@@ -16,6 +16,8 @@ website:
         href: kontakt.qmd
       - text: "Tilmeld"
         href: tilmeld.qmd
+      - text: "Support til Web-patient"
+        href: support.qmd
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
