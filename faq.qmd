@@ -1,57 +1,16 @@
 # Ofte stillede spørgsmål
 
----
-title: "Ofte Stillede Spørgsmål"
-author: "Din Navn"
-output: html_document
----
-
-# FAQ - Ofte Stillede Spørgsmål
-
-<p>Her kan du finde svar på nogle af de mest stillede spørgsmål:</p>
-
-<button class="accordion">Hvordan opretter jeg en konto?</button>
-<div class="panel">
-  <p>For at oprette en konto, klik på "Opret konto"-knappen og udfyld dine oplysninger.</p>
-</div>
-
-<button class="accordion">Hvordan ændrer jeg mit password?</button>
-<div class="panel">
-  <p>Gå til "Indstillinger" og vælg "Ændr password" for at opdatere dit password.</p>
-</div>
-
-<button class="accordion">Er der en mobil app?</button>
-<div class="panel">
-  <p>Ja, vi har en app til både iOS og Android. Download den fra App Store eller Google Play.</p>
-</div>
-
-<script>
-  var acc = document.getElementsByClassName("accordion");
-  for (var i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var panel = this.nextElementSibling;
-      if (panel.style.display === "block") {
-        panel.style.display = "none";
-      } else {
-        panel.style.display = "block";
-      }
-    });
-  }
-</script>
-
-
-::: {.callout-important collapse="true"}
+::: {.callout collapse="true"}
 ## Hvad går PRODIAP projektet ud på?
 PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 :::
 
-::: {.callout-important collapse="true"}
+::: {.callout collapse="true"}
 ## Hvem kan deltage?
 Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
 :::
 
-::: {.callout-important collapse="true"}
+::: {.callout collapse="true"}
 ## Hvad indebærer det at deltage?
 De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
 For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
@@ -63,7 +22,7 @@ For almen praksis i **kontrolgruppen** vil årssamtalen fortsætte som vanligt u
 Derudover vil der blive gennemført interviews og observationer i udvalgte praksisser. Alle deltagende almen praksis (både i interventions- og kontrolgruppen) har mulighed for at beholde skemaet i behandelingen efter projektet er afsluttet.
 :::
 
-::: {.callout-important collapse="true"}
+::: {.callout collapse="true"}
 ## Hvad får vores almen praksis ud af at deltage?
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
 :::
