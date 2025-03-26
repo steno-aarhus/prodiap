@@ -1,5 +1,46 @@
 # Ofte stillede spørgsmål
 
+---
+title: "Ofte Stillede Spørgsmål"
+author: "Din Navn"
+output: html_document
+---
+
+# FAQ - Ofte Stillede Spørgsmål
+
+<p>Her kan du finde svar på nogle af de mest stillede spørgsmål:</p>
+
+<button class="accordion">Hvordan opretter jeg en konto?</button>
+<div class="panel">
+  <p>For at oprette en konto, klik på "Opret konto"-knappen og udfyld dine oplysninger.</p>
+</div>
+
+<button class="accordion">Hvordan ændrer jeg mit password?</button>
+<div class="panel">
+  <p>Gå til "Indstillinger" og vælg "Ændr password" for at opdatere dit password.</p>
+</div>
+
+<button class="accordion">Er der en mobil app?</button>
+<div class="panel">
+  <p>Ja, vi har en app til både iOS og Android. Download den fra App Store eller Google Play.</p>
+</div>
+
+<script>
+  var acc = document.getElementsByClassName("accordion");
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+        panel.style.display = "none";
+      } else {
+        panel.style.display = "block";
+      }
+    });
+  }
+</script>
+
+
 ::: {.callout-important collapse="true"}
 ## Hvad går PRODIAP projektet ud på?
 PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
