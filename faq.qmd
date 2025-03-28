@@ -11,6 +11,11 @@ Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region 
 :::
 
 ::: {.callout collapse="true"}
+## Hvornår skal vores almen praksis starte i projektet?
+Vi forventer at I kan starte projektet op indenfor tre måneder fra I har tilmeldt jer projektet.
+:::
+
+::: {.callout collapse="true"}
 ## Hvad indebærer det at deltage?
 De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
 For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
