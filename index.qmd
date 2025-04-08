@@ -8,7 +8,7 @@ callout-appearance: "simple"
 
 ## Om projektet
 PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Projektet udføres som et lodtrækningsforsøg, og formålet er at undersøge betydningen af at anvende et diabetes-specifikt PRO spørgeskema i årssamtalen, som kan understøtte en mere målrettet og patient-inddragende samtale.
-Projektet udføres i et samarbejde mellem Steno Diabetes Center Aarhus, Steno Diabetes Center Nordjylland og Steno Diabetes Center Odense.
+Projektet udføres i et samarbejde mellem Steno Diabetes Center Aarhus, Steno Diabetes Center Odense og Steno Diabetes Center Sjælland.
 
 ![](images/tilst_scr_00_02_09_04.Still015.jpg){.profile-picture}
 
