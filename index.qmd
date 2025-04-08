@@ -6,7 +6,9 @@ callout-appearance: "simple"
 
 ![](images/SDC AOS Midten.jpg){.profile-picture}
 
-[Tilmeld jeres almen praksis til projektet her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary}
+<div class="text-center">
+  [Tilmeld jeres almen praksis til projektet her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary}
+</div>
 
 ## Om projektet
 PRODIAP er et forskningsprojekt, som har fokus på årssamtalen for personer med type 2-diabetes i almen praksis. Projektet udføres som et lodtrækningsforsøg, og formålet er at undersøge betydningen af at anvende et diabetes-specifikt PRO spørgeskema i årssamtalen, som kan understøtte en mere målrettet og patient-inddragende samtale.
