@@ -21,7 +21,7 @@
 
 ::: {.callout collapse="true"}
 ## Hvad går PRODIAP projektet ud på?
-PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af sin sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
+PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af egen sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 :::
 
 ::: {.callout collapse="true"}
