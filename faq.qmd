@@ -32,6 +32,7 @@ PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede o
 Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på de forudgående spørgsmål.
 
 PRODIAP indeholder følgende spørgsmål:
+
 - **SF12**: Selvrapporteret helbredsstatus (1 spørgsmål)  
 - **WHO5**: Generel trivsel (5 spørgsmål og 1 resultat)  
 - **MDI**: Depressionsscreening (2 spørgsmål)
