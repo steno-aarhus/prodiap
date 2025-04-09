@@ -1,20 +1,23 @@
 ```{=html}
 <style>
-.callout-title {
+/* Målret overskriften i callouts endnu mere præcist */
+.callout.callout-style-default .callout-header {
     background-color: #990033 !important;
-    color: #FFFFFF !important; /* Ren hvid tekst */
-    font-weight: bold; /* Gør teksten kraftigere */
-    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.8); /* Lidt skygge for ekstra skarphed */
-    padding: 10px;
-    border-radius: 5px;
+    color: #ffffff !important;
+    font-weight: bold !important;
+    text-shadow: 0px 0px 2px rgba(255, 255, 255, 0.8) !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
 }
 
-.callout {
+/* Fjern evt. brune baggrunde eller skygger i selve callout-boksen */
+.callout.callout-style-default {
     background-color: transparent !important;
-    color: black !important;
     border-left: none !important;
+    box-shadow: none !important;
 }
 </style>
+
 
 
 
