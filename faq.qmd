@@ -30,21 +30,22 @@ PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede o
 
 ::: {.callout collapse="true"}
 ## Hvilke spørgsmål indeholder PRODIAP spørgeskemaet?
-Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på forudgående spørgsmål.
+Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på de forudgående spørgsmål.
+
 PRODIAP indeholder følgende spørgsmål:
-•	SF12: Selvrapporteret helbredsstatus (1 spg.)
-•	WHO5: Generel velbefindende (5 spg. og 1 resultat)
-•	MDI: Depressions-spørgeskema (2 spg.)
-•	PAID5: Problem Areas In Diabetes (5 spg. og 1 resultat)
-•	Symptomer (6-11 spg.)
-•	Søvn (3 spg.)
-•	Undersøgelser (2 spg.)
-•	Seksualitet (2 spg.)
-•	Medicin og blodsukker (3-7 spg.)
-•	Egenomsorg (6 spg.)
-•	Diabetes-uddannelse (2 spg.)
-•	KRAM (4 spg.)
-•	Emner til samtale (1 spg.)
+- **SF12**: Selvrapporteret helbredsstatus (1 spørgsmål)  
+- **WHO5**: Generel trivsel (5 spørgsmål og 1 resultat)  
+- **MDI**: Depressionsscreening (2 spørgsmål)
+- **PAID5**: Problem Areas In Diabetes (5 spørgsmål og 1 resultat)
+- **Symptomer**: (6-11 spørgsmål)
+- **Søvn**: (3 spørgsmål)
+- **Undersøgelser**: (2 spørgsmål)
+- **Seksualitet**: (2 spørgsmål)
+- **Medicin og blodsukker**: (3-7 spørgsmål)
+- **Egenomsorg**: (6 spørgsmål)
+- **Diabetes-uddannelse**: (2 spørgsmål)
+- **KRAM**: (4 spørgsmål)
+- **Emner til samtale**: (1 spørgsmål)
 :::
 
 ::: {.callout collapse="true"}
