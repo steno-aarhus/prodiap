@@ -20,12 +20,12 @@
 # Ofte stillede spørgsmål
 
 ::: {.callout collapse="true"}
-## Hvad går PRODIAP projektet ud på?
+## **Hvad går PRODIAP projektet ud på?**
 PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede oplysninger kan understøtte årssamtalen for personer med type 2-diabetes i almen praksis. Spørgeskemaet giver et struktureret overblik over patientens behov og oplevelse af egen sygdom, hvilket kan understøtte en mere målrettet og effektiv samtale.
 :::
 
 ::: {.callout collapse="true"}
-## Hvilke spørgsmål indeholder PRODIAP spørgeskemaet?
+## **Hvilke spørgsmål indeholder PRODIAP spørgeskemaet?**
 Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på de forudgående spørgsmål.
 
 PRODIAP indeholder følgende spørgsmål:
@@ -46,17 +46,17 @@ PRODIAP indeholder følgende spørgsmål:
 :::
 
 ::: {.callout collapse="true"}
-## Hvem kan deltage?
+## **Hvem kan deltage?**
 Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region Midtjylland, Region Syddanmark og Region Sjælland.
 :::
 
 ::: {.callout collapse="true"}
-## Hvornår skal vores almen praksis starte i projektet?
+## **Hvornår skal vores almen praksis starte i projektet?**
 Vi forventer at I kan starte projektet op indenfor tre måneder fra I har tilmeldt jer projektet.
 :::
 
 ::: {.callout collapse="true"}
-## Hvad indebærer det at deltage?
+## **Hvad indebærer det at deltage?**
 De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
 For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
 
@@ -68,6 +68,6 @@ Derudover vil der blive gennemført interviews og observationer i udvalgte praks
 :::
 
 ::: {.callout collapse="true"}
-## Hvad får vores almen praksis ud af at deltage?
+## **Hvad får vores almen praksis ud af at deltage?**
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
 :::
