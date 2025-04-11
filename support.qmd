@@ -1,6 +1,9 @@
-## Support til Webpatient
+## Support til Web-patient
 
-PRODIAP spørgeskemaet tilgås via Webpatient, og herunder findes kontaktoplysninger til deres support.
+PRODIAP spørgeskemaet tilgås via Web-patient, og findes det samme sted som de øvrige PRO skemaer.
+Guide til bestilling af PRODIAP og metodeblad kommer til at ligge på SYNLABSs hjemmeside, hvis ens almen praksis er tildelt interventionsgruppen.
+
+Herunder findes kontaktoplysninger til Web-patients support:
 
 - Mail: webreq.support@synlab.com
 - Tlf. 75 72 01 77
