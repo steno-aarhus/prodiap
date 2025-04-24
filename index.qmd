@@ -1,5 +1,5 @@
 ---
-title: "PRODIAP: PRO diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
+title: "PRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
 callout-icon: false
 callout-appearance: "simple"
 ---
