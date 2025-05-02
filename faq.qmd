@@ -41,19 +41,19 @@ Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmål
 
 PRODIAP indeholder følgende spørgsmål:
 
-- **SF12**: Selvrapporteret helbredsstatus (1 spørgsmål)  
-- **WHO5**: Generel trivsel (5 spørgsmål)  
-- **MDI**: Depressionsscreening (2 spørgsmål)
-- **PAID5**: Problem Areas In Diabetes (5 spørgsmål)
-- **Symptomer**: (6-11 spørgsmål)
-- **Søvn**: (3 spørgsmål)
-- **Undersøgelser**: (2 spørgsmål)
-- **Seksualitet**: (2 spørgsmål)
-- **Medicin og blodsukker**: (3-7 spørgsmål)
-- **Egenomsorg**: (6 spørgsmål)
-- **Diabetes-uddannelse**: (2 spørgsmål)
-- **KRAM**: (4 spørgsmål)
-- **Emner til samtale**: (1 spørgsmål)
+- **SF12** (selvrapporteret helbredsstatus): 1 spørgsmål
+- **WHO5** (generel trivsel): 5 spørgsmål
+- **MDI** (depressionsscreening): 2 spørgsmål
+- **PAID5** (Problem Areas In Diabetes): 5 spørgsmål
+- **Symptomer**: 6-11 spørgsmål
+- **Søvn**: 3 spørgsmål
+- **Undersøgelser**: 2 spørgsmål
+- **Seksualitet**: 2 spørgsmål
+- **Medicin og blodsukker**: 3-7 spørgsmål
+- **Egenomsorg**: 6 spørgsmål
+- **Diabetes-uddannelse**: 2 spørgsmål
+- **KRAM**: 4 spørgsmål
+- **Emner til samtale**: 1 spørgsmål
 :::
 
 ::: {.callout collapse="true"}
