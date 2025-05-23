@@ -1,6 +1,0 @@
-# Tilmeld jer til projektet her
-
-Ved at udfylde tilmeldingsformularen accepterer I, at vi behandler tilmeldingsoplysningerne i projektet. Vi forventer, at I kan startet projektet op i jeres almen praksis indenfor tre måneder.
-Tilmeldelsen er først registreret, når der er trykket på "Indsend". Efter tilmelding kontakter vi jer indenfor en uge for at aftale et tidspunkt for undervisning, som omhandler rekruttering af patienter og opsætning og brug af PRODIAP spørgeskemaet i Web-patient.
-
-[Tilmeld jeres almen praksis til projektet her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary}
