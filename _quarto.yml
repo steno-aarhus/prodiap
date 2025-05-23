@@ -14,20 +14,8 @@ website:
         href: faq.qmd
       - text: "Kontakt"
         href: kontakt.qmd
-      - text: "Tilmeld"
-        href: tilmeld.qmd
-      - text: "Support til Web-patient"
+      - text: "Web-patient support"
         href: support.qmd
-    tools:
-      - icon: github
-        href: "https://github.com/steno-aarhus/"
-        aria-label: "GitHub icon: Link to SDCA GitHub organization page"
-      - icon: twitter
-        href: "https://twitter.com/StenoAarhusRes"
-        aria-label: "Twitter icon: Link to SDCA Twitter page"
-      - icon: globe
-        href: directory.qmd
-        aria-label: "Globe icon: Link to directory page of other SDCA websites"
 
 format: sdca-theme-html
 
