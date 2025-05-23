@@ -4,7 +4,7 @@ title: PRODIAP
 subtitle: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis
 ---
 
-![](images/tilst_scr_00_02_09_04.Still015.jpg){.profile-picture}
+![](images/tilst_scr_00_02_09_04.Still015.jpg)
 
 <div class="text-center">
   [Tilmeld jeres almen praksis her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary role="button"}
@@ -32,3 +32,5 @@ Ved at deltage i projektet får jeres almen praksis:
 - Økonomisk kompensation for undervisning i hvordan man opsætter og anevender spørgeskemaet og for rekruttering af patienter til projektet.
 - Erfaring med at deltage i og bidrage til et forskningsprojekt, som har til formål at udvikle og forbedre behandlingen af patienter med type 2-diabetes.
 - En medvirkende rolle i at skabe evidens, som kan spille ind i den kommende sundhedsreform.
+
+![](images/SDC AOS Midten.jpg)
