@@ -16,6 +16,9 @@ website:
         href: kontakt.qmd
       - text: "Web-patient support"
         href: support.qmd
+    right: 
+      - text: "<span class='btn btn-light role=button'>Tilmeld</span>"
+        href: "https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN"
 
 format: sdca-theme-html
 
