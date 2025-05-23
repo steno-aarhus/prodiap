@@ -1,11 +1,8 @@
 ---
-title: "PRODIAP: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis"
-callout-icon: false
-callout-appearance: "simple"
+title-block-banner: true
+title: PRODIAP
+subtitle: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis
 ---
-
-
-![](images/SDC AOS Midten.jpg){.profile-picture}
 
 ![](images/tilst_scr_00_02_09_04.Still015.jpg){.profile-picture}
 
