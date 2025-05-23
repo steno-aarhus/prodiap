@@ -5,9 +5,9 @@ callout-appearance: "simple"
 ---
 
 
-![](images/SDC AOS Midten.jpg){.profile-picture}
+![](images/SDC AOS Midten.jpg)
 
-![](images/tilst_scr_00_02_09_04.Still015.jpg){.profile-picture}
+![](images/tilst_scr_00_02_09_04.Still015.jpg)
 
 <div class="text-center">
   [Tilmeld jeres almen praksis til projektet her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary}
