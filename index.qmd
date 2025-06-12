@@ -7,7 +7,7 @@ subtitle: Diabetes spørgeskema til personer med type 2-diabetes i almen praksis
 ![](images/tilst_scr_00_02_09_04.Still015.jpg)
 
 <div class="text-center">
-  [Tilmeld jeres almen praksis her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary role="button"}
+  [Tilmeld jeres almen praksis her](href: tilmeld.qmd){.btn .btn-primary role="button"}
 </div>
 
 ## Om projektet
