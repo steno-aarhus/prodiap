@@ -5,8 +5,4 @@ Tilmeldelsen er først registreret, når der er trykket på "Indsend". Efter til
 
 OBS: Da vi har fået mange tilmeldinger fra <span style="color:#990033;"><strong>Region Midtjylland</strong></span>, vil nye tilmeldinger i denne region komme på venteliste.
 
-OBS: Da vi har fået mange tilmeldinger fra <span style="color:#990033;">Region Midtjylland</span>, vil nye tilmeldinger i denne region komme på venteliste.
-
-OBS: Da vi har fået mange tilmeldinger fra Region Midtjylland, vil nye tilmeldinger i denne region komme på venteliste.
-
 [Tilmeld jeres almen praksis til projektet her](https://redcap.au.dk/surveys/?s=KMCN3FHX47YNEXPN){.btn .btn-primary}
