@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/prodiap/baggrund.html</loc>
-    <lastmod>2026-01-13T13:45:27.931Z</lastmod>
-  </url>
-  <url>
     <loc>https://steno-aarhus.github.io/prodiap/support.html</loc>
-    <lastmod>2026-01-13T13:45:27.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/directory.html</loc>
-    <lastmod>2026-01-13T13:45:27.931Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/index.html</loc>
-    <lastmod>2026-01-13T13:45:27.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/LICENSE.html</loc>
-    <lastmod>2026-01-13T13:45:27.926Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/prodiap/faq.html</loc>
-    <lastmod>2026-01-13T13:45:27.931Z</lastmod>
+    <lastmod>2026-03-20T14:49:48.846Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/prodiap/kontakt.html</loc>
-    <lastmod>2026-01-13T13:45:27.956Z</lastmod>
+    <lastmod>2026-03-20T14:49:48.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/directory.html</loc>
+    <lastmod>2026-03-20T14:49:48.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/baggrund.html</loc>
+    <lastmod>2026-03-20T14:49:48.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/index.html</loc>
+    <lastmod>2026-03-20T14:49:48.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/LICENSE.html</loc>
+    <lastmod>2026-03-20T14:49:48.813Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/prodiap/tilmeld.html</loc>
-    <lastmod>2026-01-13T13:45:27.956Z</lastmod>
+    <lastmod>2026-03-20T14:49:48.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/prodiap/faq.html</loc>
+    <lastmod>2026-03-20T14:49:48.818Z</lastmod>
   </url>
 </urlset>
