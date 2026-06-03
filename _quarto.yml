@@ -12,12 +12,12 @@ website:
         href: baggrund.qmd
       - text: "Ofte stillede spørgsmål"
         href: faq.qmd
-      - text: "Til personer med type 2-diabetes"
-        href: info_patienter.qmd
       - text: "Kontakt"
         href: kontakt.qmd
       - text: "Web-patient support"
         href: support.qmd
+      - text: "Til personer med type 2-diabetes"
+        href: info_patienter.qmd
     right: 
       - text: "<span class='btn btn-light role=button'>Tilmeld</span>"
         href: tilmeld.qmd
