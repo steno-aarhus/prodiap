@@ -12,12 +12,12 @@ website:
         href: baggrund.qmd
       - text: "Til almen praksis"
         href: faq.qmd
-      - text: "Kontakt"
-        href: kontakt.qmd
       - text: "Web-patient support"
         href: support.qmd
       - text: "Til deltagere"
         href: info_patienter.qmd
+      - text: "Kontakt"
+        href: kontakt.qmd
     right: 
       - text: "<span class='btn btn-light role=button'>Tilmeld</span>"
         href: tilmeld.qmd
