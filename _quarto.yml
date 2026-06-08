@@ -10,7 +10,7 @@ website:
     left:
       - text: "Baggrund" 
         href: baggrund.qmd
-      - text: "Ofte stillede spørgsmål"
+      - text: "Til almen praksis"
         href: faq.qmd
       - text: "Kontakt"
         href: kontakt.qmd
