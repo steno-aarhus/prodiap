@@ -82,3 +82,11 @@ Derudover vil der blive gennemført interviews og observationer i udvalgte praks
 ## **Hvad får vores almen praksis ud af at deltage?**
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
 :::
+
+
+::: {.callout collapse="true"}
+## **Hvad sker der efter vi har tilmeldt os?**
+Efter I har tilmeldt jer projektet bliver I randomiseret til enten interventions- eller kontrolgruppen. Katrine kontakter jer for at fortælle hvilken gruppe I er i og for at aftale et møde om det videre forløb.
+I kontrolgruppen holdes mødet online og her bliver I instrueret i hvordan rekruttering af patienter foregår. Mødet varer omkring en time.
+I interventionsgruppen kommer Anni Ebsen (sygeplejerske fra Lægerne Tilst) og jeg og besøger jer i jeres klinik og instruerer jer i hvordan rekruttering af patienter foregår og i brugen af spørgeskemaet *Diabetes Årssamtale*. Mødet varer omkring 1,5 time.
+:::
