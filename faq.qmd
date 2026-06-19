@@ -36,10 +36,10 @@ PRODIAP-projektet undersøger, hvordan et spørgeskema med patientrapporterede o
 :::
 
 ::: {.callout collapse="true"}
-## **Hvilke spørgsmål indeholder PRODIAP spørgeskemaet?**
-Antallet af spørgsmål i PRODIAP varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på de forudgående spørgsmål.
+## **Hvilke spørgsmål indeholder *Diabetes Årssamtale* spørgeskemaet?**
+Antallet af spørgsmål i spørgeskemaet varierer mellem 42 og 51, da nogle spørgsmåls fremkomst afhænger af svarene på de forudgående spørgsmål.
 
-PRODIAP indeholder følgende spørgsmål:
+*Diabetes Årssamtale* spørgeskemaet indeholder følgende spørgsmål:
 
 - **SF12** (selvrapporteret helbredsstatus): 1 spørgsmål
 - **WHO5** (generel trivsel): 5 spørgsmål
@@ -62,27 +62,24 @@ Der er plads til at ca. 30 almen praksis kan deltage i projektet i alt i Region 
 :::
 
 ::: {.callout collapse="true"}
-## **Hvornår skal vores almen praksis starte i projektet?**
-Vi forventer at I kan starte projektet op indenfor tre måneder fra I har tilmeldt jer projektet.
-:::
-
-::: {.callout collapse="true"}
 ## **Hvad indebærer det at deltage?**
 De deltagende almen praksis bliver fordelt i en interventions- og en kontrolgruppe.
-For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer PRODIAP inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der vil være en kort oplæringsperiode, hvor behandlerne får introduktion til PRODIAP og dets anvendelse.
+For almen praksis i **interventionsgruppen** indebærer deltagelse, at patienter med type 2-diabetes besvarer *Diabetes Årssamtale* inden årssamtalen, og at behandlerne anvender besvarelsen som en del af samtalen. Der aftales et møde, hvor almen praksis får introduktion til spørgeskemaet og brugen af det i årssamtalen.
 
-For almen praksis i **kontrolgruppen** vil årssamtalen fortsætte som vanligt uden brug af PRODIAP.
+For almen praksis i **kontrolgruppen** vil årssamtalen fortsætte som vanligt uden brug af *Diabetes Årssamtale* spørgeskemaet.
 
 **Alle** deltagende almen praksis (både i interventions- og i kontrolgruppen) skal rekruttere i gennemsnit 67 patienter til projektet, som skal besvare et baseline spørgeskema i starten af projektet og et follow-up spørgeskema som afslutning på projektet.
+Almen praksis i begge grupper bliver introduceret til hvordan rekruttering af patienter foregår.
 
-Derudover vil der blive gennemført interviews og observationer i udvalgte praksisser. Alle deltagende almen praksis (både i interventions- og kontrolgruppen) har mulighed for at beholde skemaet i behandelingen efter projektet er afsluttet.
+Derudover vil der blive gennemført interviews og observationer i udvalgte praksisser.
 :::
 
 ::: {.callout collapse="true"}
 ## **Hvad får vores almen praksis ud af at deltage?**
 Deltagelse giver mulighed for at være med til at udvikle fremtidens årssamtaler og få indsigt i, hvordan patientrapporterede oplysninger kan integreres i almen praksis. Derudover bidrager projektet til ny viden om, hvordan diabetesbehandling kan målrettes patienternes behov mere effektivt.
-:::
 
+Alle deltagende almen praksis (både i interventions- og kontrolgruppen) har mulighed for at beholde skemaet i behandelingen efter projektet er afsluttet.
+:::
 
 ::: {.callout collapse="true"}
 ## **Hvad sker der efter vi har tilmeldt os?**
@@ -90,5 +87,5 @@ Efter I har tilmeldt jer projektet bliver I randomiseret til enten interventions
 
 I kontrolgruppen holdes mødet online og her bliver I instrueret i hvordan rekruttering af patienter foregår. Mødet varer max en time.
 
-I interventionsgruppen kommer Anni Ebsen (sygeplejerske fra Lægerne Tilst) og jeg og besøger jer i jeres klinik og instruerer jer i hvordan rekruttering af patienter foregår og i brugen af spørgeskemaet *Diabetes Årssamtale*. Mødet varer max 1,5 time.
+I interventionsgruppen kommer Anni Ebsen (sygeplejerske fra Lægerne Tilst) og Katrine og besøger jer i jeres klinik og instruerer jer i hvordan rekruttering af patienter foregår og i brugen af spørgeskemaet *Diabetes Årssamtale*. Mødet varer max 1,5 time.
 :::
