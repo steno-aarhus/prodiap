@@ -1,7 +1,7 @@
 ## Support til Web-patient
 
 *Diabetes Årssamtale* spørgeskemaet tilgås via Web-patient, og findes det samme sted som de øvrige spørgeskemaer.
-Metodeblad til *Diabetes Årssamtale* spørgeskemaet ligger på nexus/e-sundheds hjemmeside (hed tidligere SYNLAB) og kan tilgås ved at trykke her <a href="https://smds.dk/wp-content/uploads/2021/05/Diabetes-Aarssamtale-forskningsprojekt-24.02.2026.pdf" target="_blank">her</a>
+Metodeblad til *Diabetes Årssamtale* spørgeskemaet ligger på nexus/e-sundheds hjemmeside (hed tidligere SYNLAB) og kan tilgås ved at trykke <a href="https://smds.dk/wp-content/uploads/2021/05/Diabetes-Aarssamtale-forskningsprojekt-24.02.2026.pdf" target="_blank">her</a>
 
 Herunder findes kontaktoplysninger til Web-patients support:
 
