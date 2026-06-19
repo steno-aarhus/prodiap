@@ -1,11 +1,11 @@
 ## Support til Web-patient
 
-PRODIAP spørgeskemaet tilgås via Web-patient, og findes det samme sted som de øvrige PRO skemaer.
-Guide til bestilling af PRODIAP og metodeblad kommer til at ligge på SYNLABSs hjemmeside, hvis ens almen praksis er tildelt interventionsgruppen.
+*Diabetes Årssamtale* spørgeskemaet tilgås via Web-patient, og findes det samme sted som de øvrige spørgeskemaer.
+Metodeblad til *Diabetes Årssamtale* spørgeskemaet ligger på nexus/e-sundheds hjemmeside (hed tidligere SYNLAB) og kan tilgås ved at trykke her <a href="https://smds.dk/wp-content/uploads/2021/05/Diabetes-Aarssamtale-forskningsprojekt-24.02.2026.pdf" target="_blank">HER</a>
 
 Herunder findes kontaktoplysninger til Web-patients support:
 
-- Mail: webreq.support@synlab.com
+- Mail: support@nexus-esundhed.dk
 - Tlf. 75 72 01 77
 - Mandag–torsdag kl. 8.00-15.00
 - Fredag kl. 8.00-14.00
